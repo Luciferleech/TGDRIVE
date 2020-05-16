@@ -1,0 +1,15 @@
+*.env
+config.ini
+*conf.ini
+conf.ini
+*auth_token.txt
+*.pyc
+downloads/*
+download/*
+data*
+.vscode
+.idea
+*.json
+*.pickle
+authorized_chats.txt
+log.txt
