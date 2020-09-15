@@ -22,7 +22,7 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 
 **NB: Usage of Aria2 may leads to the suspension of your heroku account so deploy at your own risk.**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Luciferleech/TGDRIVE/tree/master)
+[![Run on Repl.it](https://repl.it/badge/github/Luciferleech/TGDRIVE)](https://repl.it/github/Luciferleech/TGDRIVE)
 
 
  
@@ -93,7 +93,7 @@ python3 generate_string_session.py
 ```
 OR use online terminal
 
-[![Run](https://img.shields.io/badge/Run%20Online-Red)](https://gen-session.cw4rr10r.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/Luciferleech/TGDRIVE)](https://repl.it/github/Luciferleech/TGDRIVE)
 
 **Termux:**
 
